@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shahad Abdul Salam Pichen</h1>
+<h1 align="center">Hi 👋, I'm Shahad Pichen</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadpichen&label=Profile%20views&color=0e75b6&style=flat" alt="shahadpichen" /> </p>
