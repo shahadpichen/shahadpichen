@@ -63,13 +63,3 @@ Recent Software Engineering graduate skilled in full-stack development, particul
 </div>  
 
 <br/>  
-
-
-
-
-
-</td></tr></table>  
-
-
-<br />
-
