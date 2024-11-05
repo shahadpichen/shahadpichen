@@ -17,4 +17,3 @@
 ### Glad to see you here!  
 Software Engineering graduate skilled in full-stack development, particularly with JavaScript and React stacks. Quick learner, adaptable, and proficient in various programming languages. Passionate about creating scalable web applications and continuously exploring new technologies.
 
-<br/>  
